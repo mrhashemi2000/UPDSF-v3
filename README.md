@@ -1,7 +1,12 @@
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.20988680-blue)](https://doi.org/10.5281/zenodo.20988680) [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+
 # UPDSF-v3
 The UPDSF v3.0 is a computational simulation engine designed to investigate the prebiotic transition from RNA-like nucleotides to DNA-like nucleotides.
 
 ## Author: Seyed Mohammad Reza Hashemi (Reza Hashemi)
+
+Environment: 🐍 Python 3.8+
 
 https://doi.org/10.5281/zenodo.20825578
 
@@ -40,7 +45,7 @@ python src/main.py
 
 ## Citation 
 
-If you use this framework in your research, please cite it as: Hashemi, S. R. (2026). Unified Prebiotic DNA Selection Framework (UPDSF) v1.2. Zenodo. DOI: 10.5281/zenodo.20733760
+If you use this framework in your research, please cite it as: Hashemi, S. R. (2026). Unified Prebiotic DNA Selection Framework (UPDSF) v3. https://doi.org/10.5281/zenodo.20988680
 
 ## References
 The model is calibrated based on the following landmark studies in prebiotic chemistry:
