@@ -23,7 +23,7 @@ Multi-Parameter Sensitivity Analysis:
 
 AUTHOR: Author: Seyed Mohammad Reza Hashemi (Reza Hashemi) Intelligence-Augmented (IA)
 VERSION: 3.0 with pH Dependence & 2D Optimization
-DOI: 10.5281/zenodo.20825578
+DOI: https://doi.org/10.5281/zenodo.20988680
 """
 
 import numpy as np
