@@ -24,7 +24,6 @@ The UPDSF v3.0 is a high-fidelity simulation engine designed to model the chemic
 ## Scientific Basis
 The simulation is calibrated based on established prebiotic chemistry literature:
 - Ferris (1996): Polymerization kinetics.
-- Huang (2005) & Joshi (2018): Clay surface catalysis and stability ratios.
 - Cleaves (2010): pH-dependent protonation states and hydrolysis.
 
 ## Key Features
