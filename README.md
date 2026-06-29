@@ -45,7 +45,9 @@ python src/main.py
 
 ## Citation 
 
-If you use this framework in your research, please cite it as: Hashemi, S. M. R. (2026). Unified Prebiotic DNA Selection Framework (UPDSF) v3.0 https://doi.org/10.5281/zenodo.20988680
+If you use this framework in your research, please cite it as:
+
+Reza Hashemi. (2026). mrhashemi2000/UPDSF-v3: Initial release. Zenodo. https://doi.org/10.5281/zenodo.20988680
 
 ## References
 The model is calibrated based on the following landmark studies in prebiotic chemistry:
