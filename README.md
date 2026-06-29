@@ -49,8 +49,13 @@ If you use this framework in your research, please cite it as: Hashemi, S. R. (2
 
 ## References
 The model is calibrated based on the following landmark studies in prebiotic chemistry:
-- Ferris (1996): On the polymerization of nucleotides.
 
-- Huang (2005): On the role of mineral surfaces in prebiotic evolution.
-- Joshi (2018): Kinetic analysis of nucleotide stability.
-- Cleaves (2010): Influence of pH on the stability of genetic precursors.
+Ferris, J. P., Hill, A. R., Liu, R., & Orgel, L. E. (1996)
+Synthesis of long prebiotic oligomers on mineral surfaces.
+Nature, 381(6577), 59–61.
+DOI: 10.1038/381059a0
+
+Cleaves, H. J. (2010)
+The origin of the biologically coded amino acids.
+Journal of Theoretical Biology, 263(4), 490–498.
+DOI: 10.1016/j.jtbi.2009.12.014
